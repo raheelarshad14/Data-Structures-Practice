@@ -1,0 +1,3 @@
+C:/Users/HP/Desktop/LAB 1 PRACTICE/cmake-build-debug/CMakeFiles/LAB_1_PRACTICE.dir
+C:/Users/HP/Desktop/LAB 1 PRACTICE/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/HP/Desktop/LAB 1 PRACTICE/cmake-build-debug/CMakeFiles/rebuild_cache.dir
